@@ -11,7 +11,7 @@
     <a href="https://github.com/mateuslucch">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>   
-    <a href="https://www.linkedin.com/in/mateus-antonio-lucchese-194109ba/">
+    <a href="https://www.linkedin.com/in/mateus-antonio-lucchese/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/MateusLucch">
