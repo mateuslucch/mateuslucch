@@ -1,4 +1,4 @@
-# 👋 Hi, i am Mateus Antonio Lucchese!!
+# 👋 Hi, I'm Mateus Antonio Lucchese!
 <ul>
     <li> :mortar_board: Focusing on a fullstack career transition</li>    
     <li> :video_game: Practicing with game development (Unity, C#)</li>
