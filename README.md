@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mateus Antonio Lucchese!
 <ul>
-    <li> :mortar_board: Focusing on a fullstack career transition</li>    
-    <li> :video_game: Practicing with game development (Unity, C#)</li>
-    <li> :computer: Conhecimento de outras linguagens (C++, Ruby, Java)</li>    
+    <li> :mortar_board: Focusing on a career transition to fullstack</li>    
+    <li> :video_game: Practicing with game development since 2018 (Unity, C#)</li>
+    <li> :computer: Knowledge of other languages (C++, Ruby, Java)</li>    
 </ul>
 
 ## Contact/Links :
