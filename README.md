@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>    
 </div>
 
-## Frameworks/Libraryes/Engines :
+## Frameworks/Libraries/Engines :
 
 <div id="frame-libs" align="center">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity badge"/>
