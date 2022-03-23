@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Mateus Antonio Lucchese!!
+# 👋 Hi, i am Mateus Antonio Lucchese!!
 <ul>
-    <li> :mortar_board: Focando na transição de carreira para Fullstack</li>    
-    <li> :video_game: Prática com game development (Unity, C#)</li>
+    <li> :mortar_board: Focusing on a fullstack career transition</li>    
+    <li> :video_game: Practicing with game development (Unity, C#)</li>
     <li> :computer: Conhecimento de outras linguagens (C++, Ruby, Java)</li>    
 </ul>
 
-## Contato/Links :
+## Contact/Links :
 :e-mail: Email: mateuslucch@gmail.com
 <div id="badges" align="center">
     <a href="https://github.com/mateuslucch">
@@ -22,7 +22,7 @@
     </a>
 </div>
 
-## Linguagens :
+## Programming Languages :
 
 <div id="languages" align="center">    
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>    
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>    
 </div>
 
-## Frameworks/Bibliotecas/Engines :
+## Frameworks/Libraryes/Engines :
 
 <div id="frame-libs" align="center">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity badge"/>
@@ -43,7 +43,7 @@
      
 </div>
 
-### :fire: Meu Status :
+### :fire: My status :
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuslucch&theme=dark&background=000000" alt="unity badge"/>
