@@ -8,7 +8,10 @@
 ## Contact/Links :
 :e-mail: Email: mateuslucch@gmail.com
 <div id="badges" align="center">
-    <a href="https://github.com/mateuslucch">
+     <a href="https://github.com/mateuslucch">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="GooglePlay Badge"/>
+    </a>   
+    <a href="https://play.google.com/store/apps/developer?id=Mateus+Lucchese">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>   
     <a href="https://www.linkedin.com/in/mateus-antonio-lucchese/">
