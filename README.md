@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Mateus Antonio Lucchese!
 <ul>
-    <li> :mortar_board: Learning fullstack (HTML, CSS, JavaScript, .Net, SQL)</li>
+    <li> :mortar_board: Learning backend (.Net, Asp.Net, MVC, SQL Server, SQL Server Management)</li>
+    <li> :mortar_board: Knowledge of frontend (HTML, CSS, JavaScript)</li>
     <li> :video_game: Practicing with game development since 2018 (Unity, C#)</li>
     <li> :computer: Knowledge of other languages (C++, Ruby, Java)</li>    
 </ul>
