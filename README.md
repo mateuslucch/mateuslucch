@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mateus Antonio Lucchese!
 <ul>
-    <li> :mortar_board: Studying Software Engineering</li>
+    <li> :mortar_board: Software Engineering Postgraduate Specialization (Lato Sensu)</li>
     <li> :mortar_board: Learning backend (.Net, Asp.Net, SQL Server, SQL Server Management, Unit Testing)</li>
     <li> :mortar_board: Learning gamedev with Unreal Engine</li>
     <li> :video_game: Practicing with game development since 2018 (Unity, C#)</li>
