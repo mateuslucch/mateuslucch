@@ -14,15 +14,19 @@
      <a href="https://github.com/mateuslucch">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>   
+    <!--
     <a href="https://play.google.com/store/apps/developer?id=Mateus+Lucchese">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="GooglePlay Badge"/>        
     </a>   
+    -->
     <a href="https://www.linkedin.com/in/mateus-antonio-lucchese/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <!-- 
     <a href="https://twitter.com/MateusLucch">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>    
+    </a> 
+    -->    
     <a href="https://mateuslucch.itch.io">
         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io badge"/>
     </a>
