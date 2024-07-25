@@ -5,7 +5,7 @@
     <li> :mortar_board: Learning gamedev with Unreal Engine</li>
     <li> :video_game: Practicing with game development since 2018 (Unity, C#)</li>
     <li> :mortar_board: Knowledge of frontend (HTML, CSS, JavaScript)</li>    
-    <li> :computer: Knowledge of other languages (C++, Ruby)</li>    
+    <li> :computer: Knowledge of other languages (C++)</li>    
 </ul>
 
 ## Contact/Links :
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>    
+    <!-- <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>    -->
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <!---  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>    --->
 </div>
